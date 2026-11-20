@@ -1,0 +1,283 @@
+2026-11-20 09:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 09:45:04 port 3001 already listening, skip launch
+2026-11-20 09:47:24 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 09:47:28 port 3001 already listening, skip launch
+2026-11-20 09:48:56 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 09:49:01 port 3001 free, launching FreeLLMAPI server (node22 + tsx watch)...
+2026-11-20 09:49:01 launched with C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6\node.exe . out=C:\Users\Administrator\freellmapi\server.out.log err=C:\Users\Administrator\freellmapi\server.err.log
+2026-11-20 09:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 09:50:04 port 3001 already listening, skip launch
+2026-11-20 09:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 09:55:04 port 3001 already listening, skip launch
+2026-11-20 10:00:53 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:01:09 port 3001 already listening, skip launch
+2026-11-20 10:05:44 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:05:55 port 3001 already listening, skip launch
+2026-11-20 10:10:29 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:10:42 port 3001 already listening, skip launch
+2026-11-20 10:15:09 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:15:14 port 3001 already listening, skip launch
+2026-11-20 10:20:20 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:20:25 port 3001 already listening, skip launch
+2026-11-20 10:25:15 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:25:19 port 3001 already listening, skip launch
+2026-11-20 10:30:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:30:05 port 3001 already listening, skip launch
+2026-11-20 10:35:03 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:35:05 port 3001 already listening, skip launch
+2026-11-20 10:40:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:40:05 port 3001 already listening, skip launch
+2026-11-20 10:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:45:04 port 3001 already listening, skip launch
+2026-11-20 10:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:50:04 port 3001 already listening, skip launch
+2026-11-20 10:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 10:55:04 port 3001 already listening, skip launch
+2026-11-20 11:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:00:04 port 3001 already listening, skip launch
+2026-11-20 11:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:05:04 port 3001 already listening, skip launch
+2026-11-20 11:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:10:04 port 3001 already listening, skip launch
+2026-11-20 11:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:15:04 port 3001 already listening, skip launch
+2026-11-20 11:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:20:04 port 3001 already listening, skip launch
+2026-11-20 11:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:25:04 port 3001 already listening, skip launch
+2026-11-20 11:30:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:30:04 port 3001 already listening, skip launch
+2026-11-20 11:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:35:04 port 3001 already listening, skip launch
+2026-11-20 11:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:40:04 port 3001 already listening, skip launch
+2026-11-20 11:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:45:04 port 3001 already listening, skip launch
+2026-11-20 11:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:50:04 port 3001 already listening, skip launch
+2026-11-20 11:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 11:55:04 port 3001 already listening, skip launch
+2026-11-20 12:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:00:04 port 3001 already listening, skip launch
+2026-11-20 12:04:35 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:04:38 port 3001 already listening, skip launch
+2026-11-20 12:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:05:04 port 3001 already listening, skip launch
+2026-11-20 12:10:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:10:04 port 3001 already listening, skip launch
+2026-11-20 12:15:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:15:04 port 3001 already listening, skip launch
+2026-11-20 12:20:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:20:04 port 3001 already listening, skip launch
+2026-11-20 12:25:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:25:04 port 3001 already listening, skip launch
+2026-11-20 12:30:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:30:04 port 3001 already listening, skip launch
+2026-11-20 12:35:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 12:35:04 port 3001 already listening, skip launch
+2026-11-20 13:40:39 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 13:40:45 port 3001 free, launching FreeLLMAPI server (node22 + tsx watch)...
+2026-11-20 13:40:45 launched with C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6\node.exe . out=C:\Users\Administrator\freellmapi\server.out.log err=C:\Users\Administrator\freellmapi\server.err.log
+2026-11-20 13:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 13:45:03 port 3001 already listening, skip launch
+2026-11-20 13:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 13:50:03 port 3001 already listening, skip launch
+2026-11-20 13:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 13:55:03 port 3001 already listening, skip launch
+2026-11-20 14:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:00:03 port 3001 already listening, skip launch
+2026-11-20 14:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:05:03 port 3001 already listening, skip launch
+2026-11-20 14:10:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:10:04 port 3001 already listening, skip launch
+2026-11-20 14:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:15:04 port 3001 already listening, skip launch
+2026-11-20 14:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:20:03 port 3001 already listening, skip launch
+2026-11-20 14:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:25:03 port 3001 already listening, skip launch
+2026-11-20 14:30:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:30:05 port 3001 already listening, skip launch
+2026-11-20 14:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:35:03 port 3001 already listening, skip launch
+2026-11-20 14:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:40:03 port 3001 already listening, skip launch
+2026-11-20 14:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:45:04 port 3001 already listening, skip launch
+2026-11-20 14:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:50:03 port 3001 already listening, skip launch
+2026-11-20 14:53:12 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:53:16 port 3001 already listening, skip launch
+2026-11-20 14:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 14:55:03 port 3001 already listening, skip launch
+2026-11-20 15:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:00:03 port 3001 already listening, skip launch
+2026-11-20 15:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:05:03 port 3001 already listening, skip launch
+2026-11-20 15:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:10:03 port 3001 already listening, skip launch
+2026-11-20 15:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:15:03 port 3001 already listening, skip launch
+2026-11-20 15:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:20:04 port 3001 already listening, skip launch
+2026-11-20 15:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:25:04 port 3001 already listening, skip launch
+2026-11-20 15:30:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:30:04 port 3001 already listening, skip launch
+2026-11-20 15:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:35:04 port 3001 already listening, skip launch
+2026-11-20 15:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:40:04 port 3001 already listening, skip launch
+2026-11-20 15:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:45:03 port 3001 already listening, skip launch
+2026-11-20 15:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:50:03 port 3001 already listening, skip launch
+2026-11-20 15:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 15:55:03 port 3001 already listening, skip launch
+2026-11-20 16:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:00:03 port 3001 already listening, skip launch
+2026-11-20 16:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:05:04 port 3001 already listening, skip launch
+2026-11-20 16:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:10:04 port 3001 already listening, skip launch
+2026-11-20 16:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:15:04 port 3001 already listening, skip launch
+2026-11-20 16:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:20:04 port 3001 already listening, skip launch
+2026-11-20 16:23:31 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:23:35 port 3001 already listening, skip launch
+2026-11-20 16:24:35 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:24:38 port 3001 already listening, skip launch
+2026-11-20 16:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:25:04 port 3001 already listening, skip launch
+2026-11-20 16:30:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:30:03 port 3001 already listening, skip launch
+2026-11-20 16:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:35:03 port 3001 already listening, skip launch
+2026-11-20 16:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:40:03 port 3001 already listening, skip launch
+2026-11-20 16:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:45:04 port 3001 already listening, skip launch
+2026-11-20 16:50:03 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:50:05 port 3001 already listening, skip launch
+2026-11-20 16:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 16:55:03 port 3001 already listening, skip launch
+2026-11-20 17:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:00:03 port 3001 already listening, skip launch
+2026-11-20 17:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:05:03 port 3001 already listening, skip launch
+2026-11-20 17:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:10:03 port 3001 already listening, skip launch
+2026-11-20 17:15:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:15:04 port 3001 already listening, skip launch
+2026-11-20 17:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:20:04 port 3001 already listening, skip launch
+2026-11-20 17:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:25:04 port 3001 already listening, skip launch
+2026-11-20 17:30:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:30:04 port 3001 already listening, skip launch
+2026-11-20 17:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:35:04 port 3001 already listening, skip launch
+2026-11-20 17:40:04 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:40:07 port 3001 already listening, skip launch
+2026-11-20 17:45:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:45:04 port 3001 already listening, skip launch
+2026-11-20 17:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:50:04 port 3001 already listening, skip launch
+2026-11-20 17:55:44 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 17:55:54 port 3001 already listening, skip launch
+2026-11-20 18:01:10 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:01:30 port 3001 already listening, skip launch
+2026-11-20 18:05:44 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:05:58 port 3001 already listening, skip launch
+2026-11-20 18:10:34 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:10:47 port 3001 already listening, skip launch
+2026-11-20 18:15:21 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:15:26 port 3001 already listening, skip launch
+2026-11-20 18:20:30 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:20:33 port 3001 already listening, skip launch
+2026-11-20 18:25:03 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:25:06 port 3001 already listening, skip launch
+2026-11-20 18:30:09 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:30:15 port 3001 already listening, skip launch
+2026-11-20 18:35:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:35:04 port 3001 already listening, skip launch
+2026-11-20 18:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:40:04 port 3001 already listening, skip launch
+2026-11-20 18:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:45:04 port 3001 already listening, skip launch
+2026-11-20 18:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:50:04 port 3001 already listening, skip launch
+2026-11-20 18:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 18:55:04 port 3001 already listening, skip launch
+2026-11-20 19:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:00:04 port 3001 already listening, skip launch
+2026-11-20 19:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:05:04 port 3001 already listening, skip launch
+2026-11-20 19:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:10:04 port 3001 already listening, skip launch
+2026-11-20 19:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:15:04 port 3001 already listening, skip launch
+2026-11-20 19:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:20:04 port 3001 already listening, skip launch
+2026-11-20 19:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:25:04 port 3001 already listening, skip launch
+2026-11-20 19:30:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:30:04 port 3001 already listening, skip launch
+2026-11-20 19:35:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:35:04 port 3001 already listening, skip launch
+2026-11-20 19:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:40:04 port 3001 already listening, skip launch
+2026-11-20 19:45:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:45:04 port 3001 already listening, skip launch
+2026-11-20 19:50:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:50:04 port 3001 already listening, skip launch
+2026-11-20 19:55:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 19:55:04 port 3001 already listening, skip launch
+2026-11-20 20:00:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:00:04 port 3001 already listening, skip launch
+2026-11-20 20:05:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:05:04 port 3001 already listening, skip launch
+2026-11-20 20:10:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:10:04 port 3001 already listening, skip launch
+2026-11-20 20:15:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:15:04 port 3001 already listening, skip launch
+2026-11-20 20:20:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:20:04 port 3001 already listening, skip launch
+2026-11-20 20:25:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:25:04 port 3001 already listening, skip launch
+2026-11-20 20:30:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:30:04 port 3001 already listening, skip launch
+2026-11-20 20:35:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:35:04 port 3001 already listening, skip launch
+2026-11-20 20:40:01 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:40:04 port 3001 already listening, skip launch
+2026-11-20 20:45:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:45:04 port 3001 already listening, skip launch
+2026-11-20 20:50:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:50:04 port 3001 already listening, skip launch
+2026-11-20 20:55:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 20:55:04 port 3001 already listening, skip launch
+2026-11-20 21:00:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:00:04 port 3001 already listening, skip launch
+2026-11-20 21:05:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:05:04 port 3001 already listening, skip launch
+2026-11-20 21:10:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:10:04 port 3001 already listening, skip launch
+2026-11-20 21:15:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:15:04 port 3001 already listening, skip launch
+2026-11-20 21:20:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:20:04 port 3001 already listening, skip launch
+2026-11-20 21:25:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:25:04 port 3001 already listening, skip launch
+2026-11-20 21:30:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:30:04 port 3001 already listening, skip launch
+2026-11-20 21:35:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:35:04 port 3001 already listening, skip launch
+2026-11-20 21:40:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:40:04 port 3001 already listening, skip launch
+2026-11-20 21:45:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:45:04 port 3001 already listening, skip launch
+2026-11-20 21:50:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6
+2026-11-20 21:50:04 port 3001 already listening, skip launch
+2026-11-20 21:55:02 LAUNCH_V4 dynamic-node script loaded. nodeDir=C:\Users\Administrator\.workbuddy\binaries\node\versions\22.22.2-6

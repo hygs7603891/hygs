@@ -1,0 +1,7 @@
+[
+  { "platform": "google",  "key": "PASTE_GOOGLE_API_KEY_HERE" },
+  { "platform": "groq",    "key": "PASTE_GROQ_API_KEY_HERE" },
+  { "platform": "cohere",  "key": "PASTE_COHERE_API_KEY_HERE" },
+  { "platform": "mistral", "key": "PASTE_MISTRAL_API_KEY_HERE" },
+  { "platform": "cloudflare", "key": "PASTE_CLOUDFLARE_API_TOKEN_HERE" }
+]
